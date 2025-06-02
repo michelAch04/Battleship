@@ -5,6 +5,7 @@ It was submitted as my Object-Oriented Design course's midterm project.
 The implementation contains PVP on the same machine and Player vs CPU, where the CPU has three difficulties: Easy, Medium and Hard.
 This is a basic Java code, and even the implementation of the CPU is not very advanced (no pattern recognition or intelligence), but nevertheless it runs!
 When you run it, a simulation of a board interface will appear after configuration of mode, since the project was done for learning how to program in Java, not how to design game graphics.
+To run the full game, please run TestMain.java 
 
 N.B: I tried implementing undo move using the Memento design pattern, but it did not work.
 Happy Coding!
